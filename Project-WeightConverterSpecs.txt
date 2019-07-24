@@ -1,0 +1,7 @@
+Ask the user to enter their weight.
+Then ask the user if that is in (L)bs or (K)g - note that this is not case sensitive
+Then convert the number entered into the opposite unit.
+    i.e. if they entered lbs, then convert to kg
+    i.e. if they entered kg, then convert to lbs
+print the weight
+

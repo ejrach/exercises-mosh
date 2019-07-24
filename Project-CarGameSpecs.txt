@@ -1,0 +1,7 @@
+Build a program that allows a user to enter a command to:
+1. start a car
+2. stop a car
+3. quit
+
+If the user enters something not recognized, print out "I don't understand that"
+

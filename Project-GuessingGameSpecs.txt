@@ -1,0 +1,4 @@
+A secret number is defined as 9.
+A user has 3 chances to guess the number, which is from 1 to 10
+If they don't guess in 3 tries, the game is over. --> print a message
+If they guess within 3 tries, then they win. --> print a message
