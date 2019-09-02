@@ -3,7 +3,6 @@ C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\bin\Deb
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\bin\Debug\netcoreapp2.2\intro.runtimeconfig.dev.json
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\bin\Debug\netcoreapp2.2\intro.dll
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\bin\Debug\netcoreapp2.2\intro.pdb
-C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\obj\Debug\netcoreapp2.2\intro.csprojAssemblyReference.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\obj\Debug\netcoreapp2.2\intro.csproj.CoreCompileInputs.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\obj\Debug\netcoreapp2.2\intro.AssemblyInfoInputs.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\obj\Debug\netcoreapp2.2\intro.AssemblyInfo.cs

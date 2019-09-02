@@ -1,0 +1,10 @@
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Indexer\bin\Debug\netcoreapp2.2\Indexer.deps.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Indexer\bin\Debug\netcoreapp2.2\Indexer.runtimeconfig.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Indexer\bin\Debug\netcoreapp2.2\Indexer.runtimeconfig.dev.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Indexer\bin\Debug\netcoreapp2.2\Indexer.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Indexer\bin\Debug\netcoreapp2.2\Indexer.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Indexer\obj\Debug\netcoreapp2.2\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Indexer\obj\Debug\netcoreapp2.2\Indexer.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Indexer\obj\Debug\netcoreapp2.2\Indexer.AssemblyInfo.cs
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Indexer\obj\Debug\netcoreapp2.2\Indexer.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Indexer\obj\Debug\netcoreapp2.2\Indexer.pdb

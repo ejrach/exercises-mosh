@@ -1,0 +1,10 @@
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\bin\Debug\netcoreapp2.2\AccessModifiers.deps.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\bin\Debug\netcoreapp2.2\AccessModifiers.runtimeconfig.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\bin\Debug\netcoreapp2.2\AccessModifiers.runtimeconfig.dev.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\bin\Debug\netcoreapp2.2\AccessModifiers.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\bin\Debug\netcoreapp2.2\AccessModifiers.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.AssemblyInfo.cs
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.pdb

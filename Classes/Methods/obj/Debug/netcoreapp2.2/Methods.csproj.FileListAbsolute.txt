@@ -8,3 +8,4 @@ C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Methods\obj\Debug\netcorea
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Methods\obj\Debug\netcoreapp2.2\Methods.AssemblyInfo.cs
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Methods\obj\Debug\netcoreapp2.2\Methods.dll
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Methods\obj\Debug\netcoreapp2.2\Methods.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Methods\obj\Debug\netcoreapp2.2\Methods.csprojAssemblyReference.cache

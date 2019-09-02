@@ -1,0 +1,10 @@
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Composition\bin\Debug\netcoreapp2.2\Composition.deps.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Composition\bin\Debug\netcoreapp2.2\Composition.runtimeconfig.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Composition\bin\Debug\netcoreapp2.2\Composition.runtimeconfig.dev.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Composition\bin\Debug\netcoreapp2.2\Composition.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Composition\bin\Debug\netcoreapp2.2\Composition.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Composition\obj\Debug\netcoreapp2.2\Composition.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Composition\obj\Debug\netcoreapp2.2\Composition.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Composition\obj\Debug\netcoreapp2.2\Composition.AssemblyInfo.cs
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Composition\obj\Debug\netcoreapp2.2\Composition.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Composition\obj\Debug\netcoreapp2.2\Composition.pdb
