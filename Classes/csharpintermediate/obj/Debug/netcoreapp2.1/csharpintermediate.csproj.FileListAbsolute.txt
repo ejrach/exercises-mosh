@@ -1,0 +1,11 @@
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\bin\Debug\netcoreapp2.1\csharpintermediate.deps.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\bin\Debug\netcoreapp2.1\csharpintermediate.runtimeconfig.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\bin\Debug\netcoreapp2.1\csharpintermediate.runtimeconfig.dev.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\bin\Debug\netcoreapp2.1\csharpintermediate.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\bin\Debug\netcoreapp2.1\csharpintermediate.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\obj\Debug\netcoreapp2.1\csharpintermediate.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\obj\Debug\netcoreapp2.1\csharpintermediate.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\obj\Debug\netcoreapp2.1\csharpintermediate.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\obj\Debug\netcoreapp2.1\csharpintermediate.AssemblyInfo.cs
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\obj\Debug\netcoreapp2.1\csharpintermediate.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\csharpintermediate\obj\Debug\netcoreapp2.1\csharpintermediate.pdb

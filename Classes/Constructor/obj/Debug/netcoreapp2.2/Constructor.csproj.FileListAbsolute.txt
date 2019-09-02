@@ -1,0 +1,11 @@
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Constructor\bin\Debug\netcoreapp2.2\Constructor.deps.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Constructor\bin\Debug\netcoreapp2.2\Constructor.runtimeconfig.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Constructor\bin\Debug\netcoreapp2.2\Constructor.runtimeconfig.dev.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Constructor\bin\Debug\netcoreapp2.2\Constructor.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Constructor\bin\Debug\netcoreapp2.2\Constructor.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Constructor\obj\Debug\netcoreapp2.2\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Constructor\obj\Debug\netcoreapp2.2\Constructor.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Constructor\obj\Debug\netcoreapp2.2\Constructor.AssemblyInfo.cs
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Constructor\obj\Debug\netcoreapp2.2\Constructor.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Constructor\obj\Debug\netcoreapp2.2\Constructor.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Constructor\obj\Debug\netcoreapp2.2\Constructor.csprojAssemblyReference.cache
