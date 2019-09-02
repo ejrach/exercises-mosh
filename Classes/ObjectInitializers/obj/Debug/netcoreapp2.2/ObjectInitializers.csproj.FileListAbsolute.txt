@@ -1,0 +1,11 @@
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\bin\Debug\netcoreapp2.2\ObjectInitializers.deps.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\bin\Debug\netcoreapp2.2\ObjectInitializers.runtimeconfig.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\bin\Debug\netcoreapp2.2\ObjectInitializers.runtimeconfig.dev.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\bin\Debug\netcoreapp2.2\ObjectInitializers.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\bin\Debug\netcoreapp2.2\ObjectInitializers.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\obj\Debug\netcoreapp2.2\ObjectInitializers.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\obj\Debug\netcoreapp2.2\ObjectInitializers.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\obj\Debug\netcoreapp2.2\ObjectInitializers.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\obj\Debug\netcoreapp2.2\ObjectInitializers.AssemblyInfo.cs
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\obj\Debug\netcoreapp2.2\ObjectInitializers.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\obj\Debug\netcoreapp2.2\ObjectInitializers.pdb
