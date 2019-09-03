@@ -1,0 +1,10 @@
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\InterfacesAndPolymorphism\bin\Debug\netcoreapp2.2\InterfacesAndPolymorphism.deps.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\InterfacesAndPolymorphism\bin\Debug\netcoreapp2.2\InterfacesAndPolymorphism.runtimeconfig.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\InterfacesAndPolymorphism\bin\Debug\netcoreapp2.2\InterfacesAndPolymorphism.runtimeconfig.dev.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\InterfacesAndPolymorphism\bin\Debug\netcoreapp2.2\InterfacesAndPolymorphism.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\InterfacesAndPolymorphism\bin\Debug\netcoreapp2.2\InterfacesAndPolymorphism.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\InterfacesAndPolymorphism\obj\Debug\netcoreapp2.2\InterfacesAndPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\InterfacesAndPolymorphism\obj\Debug\netcoreapp2.2\InterfacesAndPolymorphism.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\InterfacesAndPolymorphism\obj\Debug\netcoreapp2.2\InterfacesAndPolymorphism.AssemblyInfo.cs
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\InterfacesAndPolymorphism\obj\Debug\netcoreapp2.2\InterfacesAndPolymorphism.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\InterfacesAndPolymorphism\obj\Debug\netcoreapp2.2\InterfacesAndPolymorphism.pdb

@@ -1,0 +1,10 @@
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AbstractModifer\bin\Debug\netcoreapp2.2\AbstractModifer.deps.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AbstractModifer\bin\Debug\netcoreapp2.2\AbstractModifer.runtimeconfig.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AbstractModifer\bin\Debug\netcoreapp2.2\AbstractModifer.runtimeconfig.dev.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AbstractModifer\bin\Debug\netcoreapp2.2\AbstractModifer.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AbstractModifer\bin\Debug\netcoreapp2.2\AbstractModifer.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AbstractModifer\obj\Debug\netcoreapp2.2\AbstractModifer.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AbstractModifer\obj\Debug\netcoreapp2.2\AbstractModifer.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AbstractModifer\obj\Debug\netcoreapp2.2\AbstractModifer.AssemblyInfo.cs
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AbstractModifer\obj\Debug\netcoreapp2.2\AbstractModifer.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AbstractModifer\obj\Debug\netcoreapp2.2\AbstractModifer.pdb

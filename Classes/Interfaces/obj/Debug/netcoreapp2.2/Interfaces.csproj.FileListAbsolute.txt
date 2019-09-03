@@ -1,0 +1,10 @@
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Interfaces\obj\Debug\netcoreapp2.2\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Interfaces\obj\Debug\netcoreapp2.2\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Interfaces\obj\Debug\netcoreapp2.2\Interfaces.AssemblyInfo.cs
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Interfaces\bin\Debug\netcoreapp2.2\Interfaces.deps.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Interfaces\bin\Debug\netcoreapp2.2\Interfaces.runtimeconfig.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Interfaces\bin\Debug\netcoreapp2.2\Interfaces.runtimeconfig.dev.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Interfaces\bin\Debug\netcoreapp2.2\Interfaces.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Interfaces\bin\Debug\netcoreapp2.2\Interfaces.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Interfaces\obj\Debug\netcoreapp2.2\Interfaces.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Interfaces\obj\Debug\netcoreapp2.2\Interfaces.pdb
