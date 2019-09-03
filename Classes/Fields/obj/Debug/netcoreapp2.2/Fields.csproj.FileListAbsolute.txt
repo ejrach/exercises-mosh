@@ -3,7 +3,6 @@ C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Fields\bin\Debug\netcoreap
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Fields\bin\Debug\netcoreapp2.2\Fields.runtimeconfig.dev.json
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Fields\bin\Debug\netcoreapp2.2\Fields.dll
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Fields\bin\Debug\netcoreapp2.2\Fields.pdb
-C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Fields\obj\Debug\netcoreapp2.2\Fields.csprojAssemblyReference.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Fields\obj\Debug\netcoreapp2.2\Fields.csproj.CoreCompileInputs.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Fields\obj\Debug\netcoreapp2.2\Fields.AssemblyInfoInputs.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Fields\obj\Debug\netcoreapp2.2\Fields.AssemblyInfo.cs

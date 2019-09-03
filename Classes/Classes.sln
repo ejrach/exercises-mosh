@@ -17,13 +17,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiers", "AccessMo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Properties", "Properties\Properties.csproj", "{341F57A4-EAF3-4AF5-9517-B02E491E5361}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer", "Indexer\Indexer.csproj", "{182463AE-8883-4285-BFB7-B3EEE36DA044}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer", "Indexer\Indexer.csproj", "{182463AE-8883-4285-BFB7-B3EEE36DA044}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassCoupling", "ClassCoupling\ClassCoupling.csproj", "{5F561310-A81F-4E5F-8924-02E1DC68B0BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassCoupling", "ClassCoupling\ClassCoupling.csproj", "{5F561310-A81F-4E5F-8924-02E1DC68B0BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{FF6D1424-1F92-4155-920B-40A7FD9E97E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{FF6D1424-1F92-4155-920B-40A7FD9E97E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition", "Composition\Composition.csproj", "{746F641A-5575-4228-96A2-3C93F221C8C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composition", "Composition\Composition.csproj", "{746F641A-5575-4228-96A2-3C93F221C8C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "Amazon\Amazon.csproj", "{3DE83D47-539F-4EDB-AD6A-934026E3C26C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsAndInheritance", "ConstructorsAndInheritance\ConstructorsAndInheritance.csproj", "{E1852340-0BF4-4778-929F-EA03E9ED061D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpcastingAndDowncasting", "UpcastingAndDowncasting\UpcastingAndDowncasting.csproj", "{09BAB973-69B4-425C-92C9-3F670D8132AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1_Casting", "WpfApp1\WpfApp1_Casting.csproj", "{90E92261-78CD-4B48-A70F-175E45AAFEDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingAndUnboxing", "BoxingAndUnboxing\BoxingAndUnboxing.csproj", "{C4B2861D-1D75-4589-ACD1-59A639B3FD34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +85,26 @@ Global
 		{746F641A-5575-4228-96A2-3C93F221C8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{746F641A-5575-4228-96A2-3C93F221C8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{746F641A-5575-4228-96A2-3C93F221C8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE83D47-539F-4EDB-AD6A-934026E3C26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE83D47-539F-4EDB-AD6A-934026E3C26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE83D47-539F-4EDB-AD6A-934026E3C26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE83D47-539F-4EDB-AD6A-934026E3C26C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1852340-0BF4-4778-929F-EA03E9ED061D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1852340-0BF4-4778-929F-EA03E9ED061D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1852340-0BF4-4778-929F-EA03E9ED061D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1852340-0BF4-4778-929F-EA03E9ED061D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BAB973-69B4-425C-92C9-3F670D8132AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BAB973-69B4-425C-92C9-3F670D8132AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BAB973-69B4-425C-92C9-3F670D8132AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BAB973-69B4-425C-92C9-3F670D8132AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E92261-78CD-4B48-A70F-175E45AAFEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E92261-78CD-4B48-A70F-175E45AAFEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E92261-78CD-4B48-A70F-175E45AAFEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E92261-78CD-4B48-A70F-175E45AAFEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B2861D-1D75-4589-ACD1-59A639B3FD34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B2861D-1D75-4589-ACD1-59A639B3FD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B2861D-1D75-4589-ACD1-59A639B3FD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B2861D-1D75-4589-ACD1-59A639B3FD34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

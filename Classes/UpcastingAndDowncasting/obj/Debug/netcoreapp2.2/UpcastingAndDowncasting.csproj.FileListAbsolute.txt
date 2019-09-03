@@ -1,0 +1,10 @@
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\UpcastingAndDowncasting\bin\Debug\netcoreapp2.2\UpcastingAndDowncasting.deps.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\UpcastingAndDowncasting\bin\Debug\netcoreapp2.2\UpcastingAndDowncasting.runtimeconfig.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\UpcastingAndDowncasting\bin\Debug\netcoreapp2.2\UpcastingAndDowncasting.runtimeconfig.dev.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\UpcastingAndDowncasting\bin\Debug\netcoreapp2.2\UpcastingAndDowncasting.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\UpcastingAndDowncasting\bin\Debug\netcoreapp2.2\UpcastingAndDowncasting.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\UpcastingAndDowncasting\obj\Debug\netcoreapp2.2\UpcastingAndDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\UpcastingAndDowncasting\obj\Debug\netcoreapp2.2\UpcastingAndDowncasting.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\UpcastingAndDowncasting\obj\Debug\netcoreapp2.2\UpcastingAndDowncasting.AssemblyInfo.cs
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\UpcastingAndDowncasting\obj\Debug\netcoreapp2.2\UpcastingAndDowncasting.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\UpcastingAndDowncasting\obj\Debug\netcoreapp2.2\UpcastingAndDowncasting.pdb

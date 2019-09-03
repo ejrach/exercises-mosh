@@ -1,0 +1,8 @@
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Amazon\bin\Debug\netstandard2.0\Amazon.deps.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Amazon\bin\Debug\netstandard2.0\Amazon.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Amazon\bin\Debug\netstandard2.0\Amazon.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Amazon\obj\Debug\netstandard2.0\Amazon.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Amazon\obj\Debug\netstandard2.0\Amazon.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Amazon\obj\Debug\netstandard2.0\Amazon.AssemblyInfo.cs
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Amazon\obj\Debug\netstandard2.0\Amazon.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Amazon\obj\Debug\netstandard2.0\Amazon.pdb

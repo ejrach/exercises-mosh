@@ -3,7 +3,6 @@ C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Properties\bin\Debug\netco
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Properties\bin\Debug\netcoreapp2.2\Properties.runtimeconfig.dev.json
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Properties\bin\Debug\netcoreapp2.2\Properties.dll
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Properties\bin\Debug\netcoreapp2.2\Properties.pdb
-C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Properties\obj\Debug\netcoreapp2.2\Properties.csprojAssemblyReference.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Properties\obj\Debug\netcoreapp2.2\Properties.csproj.CoreCompileInputs.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Properties\obj\Debug\netcoreapp2.2\Properties.AssemblyInfoInputs.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\Properties\obj\Debug\netcoreapp2.2\Properties.AssemblyInfo.cs

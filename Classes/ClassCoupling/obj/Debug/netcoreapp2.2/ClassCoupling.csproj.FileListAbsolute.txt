@@ -1,0 +1,10 @@
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ClassCoupling\bin\Debug\netcoreapp2.2\ClassCoupling.deps.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ClassCoupling\bin\Debug\netcoreapp2.2\ClassCoupling.runtimeconfig.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ClassCoupling\bin\Debug\netcoreapp2.2\ClassCoupling.runtimeconfig.dev.json
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ClassCoupling\bin\Debug\netcoreapp2.2\ClassCoupling.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ClassCoupling\bin\Debug\netcoreapp2.2\ClassCoupling.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ClassCoupling\obj\Debug\netcoreapp2.2\ClassCoupling.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ClassCoupling\obj\Debug\netcoreapp2.2\ClassCoupling.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ClassCoupling\obj\Debug\netcoreapp2.2\ClassCoupling.AssemblyInfo.cs
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ClassCoupling\obj\Debug\netcoreapp2.2\ClassCoupling.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ClassCoupling\obj\Debug\netcoreapp2.2\ClassCoupling.pdb

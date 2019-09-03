@@ -8,4 +8,3 @@ C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\obj\Deb
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\obj\Debug\netcoreapp2.2\ObjectInitializers.AssemblyInfo.cs
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\obj\Debug\netcoreapp2.2\ObjectInitializers.dll
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\obj\Debug\netcoreapp2.2\ObjectInitializers.pdb
-C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\ObjectInitializers\obj\Debug\netcoreapp2.2\ObjectInitializers.csprojAssemblyReference.cache

@@ -8,3 +8,7 @@ C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\obj\Debug\
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.AssemblyInfo.cs
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.dll
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\bin\Debug\netcoreapp2.2\Amazon.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\bin\Debug\netcoreapp2.2\Amazon.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Classes\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.csproj.CopyComplete
