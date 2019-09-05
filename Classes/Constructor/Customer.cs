@@ -18,7 +18,7 @@ namespace Constructor
             Orders = new List<Order>();     //Whenever we use lists, it's best practice to initialize them
         }
 
-        //In this constructor, we are using ": this()". SO when this particlar constructor is called
+        //In this constructor, we are using ": this()". So when this particlar constructor is called
         //with the 'id' initializer, it first calls the empty constructor "Customer()". We do this 
         //to avoid copying and pasting the "Orders" list initialization.
         public Customer(int id)
@@ -28,7 +28,7 @@ namespace Constructor
         }
 
         //Using the same concept as above, by adding ": this(id)" we are first calling the constructor
-        //with the 'id' initializer first, and that automaticall sets the id to what is passed into the 
+        //with the 'id' initializer first, and that automatically sets the id to what is passed into the 
         //constructor.
         public Customer(int id, string name)
             : this(id)
