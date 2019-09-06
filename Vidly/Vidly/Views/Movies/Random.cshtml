@@ -1,8 +1,34 @@
-﻿@model Vidly.Models.Movie 
+﻿@model Vidly.ViewModels.RandomMovieViewModel
 @{
     ViewBag.Title = "Random";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>@Model.Name</h2>
+@*
+    Create a c# code block by typing @{}
+    If the customer count of people who rented this movie is more than 5, then define
+    a class name called "popular" otherwise just set null and the class name will not be
+    rendered in the final HTML. Use the inspect option in Chrome to view the header.
+*@
+    
+@{ 
+    var className = Model.Customers.Count > 0 ? "popular" : null;
+}
+
+<h2 class="@className">@Model.Movie.Name</h2>
+
+@if (Model.Customers.Count == 0)
+{
+    <text>No one has rented this movie before</text>
+}
+else
+{
+    <ul>
+        @foreach (var customer in Model.Customers)
+        {
+            <li>@customer.Name</li>
+        }
+    </ul>
+}
+
 
