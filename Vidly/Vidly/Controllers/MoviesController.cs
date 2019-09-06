@@ -17,7 +17,11 @@ namespace Vidly.Controllers
             return View(movie);
         }
 
-        //ByReleaseDate corresponds to the action set in the RouteConfig
+        //ByReleaseDate corresponds to the route set here:
+        //Here we are using regular expressions to set the month format of 2 digits and to be in the range 
+        //of 01 to 12.
+        //Example: .../movies/released/2016/04
+        [Route("movies/released/{year}/{month:regex(\\d{2}):range(1,12)}")]
         public ActionResult ByReleaseDate(int year, int month)
         {
             //This returns a url
