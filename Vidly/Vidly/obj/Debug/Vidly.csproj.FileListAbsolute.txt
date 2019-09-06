@@ -69,7 +69,6 @@ C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\System.Web.WebPage
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\Newtonsoft.Json.xml
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\Antlr3.Runtime.pdb
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.dll
