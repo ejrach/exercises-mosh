@@ -22,6 +22,9 @@ namespace Vidly.Models
         }
     }
 
+    //The IdentityDbContext is the gateway to our database. It is part of Asp.net identity framework.
+    //So when we execute enable-migration, Entity Framework (EF) looked at our IdentityDbContext and it discovered
+    //Db sets in IdentityDbContext like user, role, etc.
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
