@@ -48,3 +48,4 @@ C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrat
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
