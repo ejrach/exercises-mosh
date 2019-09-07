@@ -46,6 +46,7 @@ C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\Microsoft.AspNet.I
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
-C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationToCustomerName.resources
