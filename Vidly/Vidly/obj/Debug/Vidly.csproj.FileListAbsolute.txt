@@ -50,4 +50,12 @@ C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrat
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationToCustomerName.resources
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipTypeModel.resources
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.InsertMembershipTypeNameIntoTable.resources
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomerModel.resources
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreModelAndTableAndUpdateMovieModel.resources
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMovieModelToIncludeGenre.resources
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreToDbSet.resources
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreToDbSet1.resources
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMoviesToDbSet.resources
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
