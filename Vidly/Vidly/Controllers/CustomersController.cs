@@ -35,15 +35,28 @@ namespace Vidly.Controllers
             var membershipTypes = _context.MembershipTypes.ToList();
 
             //Use a View Model that encapsulates all of the data required for this view
-            var viewModel = new NewCustomerViewModel
+            var viewModel = new CustomerFormViewModel
             {
                 //Set the list of membershipTypes to the view models' MembershipTypes property
                 MembershipTypes = membershipTypes
             };
 
-            return View(viewModel);
+            return View("CustomerForm", viewModel);
         }
 
+        //Define the 'Create' action for Customer. This is model binding. MVC framework binds
+        //this model to the request data
+        public ActionResult Create(Customer customer)
+        {
+            //To save the data to the database, we need to create a context to it.
+            _context.Customers.Add(customer);
+
+            //Persist the changes. This creates SQL statements at runtime, within a transaction.
+            _context.SaveChanges();
+
+            //Now redirect the customer to the Customers page "Index"
+            return RedirectToAction("Index", "Customers");
+        }
 
         // GET: Customers
         public ViewResult Index()
@@ -67,6 +80,26 @@ namespace Vidly.Controllers
                 return HttpNotFound();
 
             return View(customer);
+        }
+
+        public ActionResult Edit (int id)
+        {
+            //First we need to get this customer with the customer id from the database.
+            //If the customer with the given id exists it will be returned, otherwise null.
+            var customer = _context.Customers.SingleOrDefault(c => c.Id == id);
+
+            if (customer == null)
+                return HttpNotFound();
+
+            //New we need to render the new customer form, which is based on the View Model, and specify the 
+            //view name.
+            var viewModel = new CustomerFormViewModel
+            {
+                Customer = customer,
+                MembershipTypes = _context.MembershipTypes.ToList()
+            };
+
+            return View("CustomerForm", viewModel);
         }
     }
 }
