@@ -5,6 +5,7 @@ using System.Data.Entity;
 using System.Web;
 using System.Web.Mvc;
 using Vidly.Models;
+using Vidly.ViewModels;
 
 namespace Vidly.Controllers
 {
@@ -27,9 +28,20 @@ namespace Vidly.Controllers
             _context.Dispose();
         }
 
+        //Display the 'New' customer membership form with a list of the membership types
         public ActionResult New()
         {
-            return View();
+            //First get the list of membership types
+            var membershipTypes = _context.MembershipTypes.ToList();
+
+            //Use a View Model that encapsulates all of the data required for this view
+            var viewModel = new NewCustomerViewModel
+            {
+                //Set the list of membershipTypes to the view models' MembershipTypes property
+                MembershipTypes = membershipTypes
+            };
+
+            return View(viewModel);
         }
 
 
