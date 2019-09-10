@@ -46,6 +46,7 @@ namespace Vidly.Controllers
 
         //Define the 'Save' action for Customer. This is model binding. MVC framework binds
         //this model to the request data
+        [HttpPost]
         public ActionResult Save(Customer customer)
         {
             //if the customer Id is 0, then we have a new customer

@@ -11,10 +11,20 @@ namespace Vidly.ViewModels
     //This ViewModel needs to exist in order to pass a view object within CustomersController
     public class CustomerFormViewModel
     {
-        //List of membership types
+        //List of membership types for the dropdown
         public IEnumerable<MembershipType> MembershipTypes { get; set; }
 
         //Let's reuse the Customer model
         public Customer Customer { get; set; }
+
+        public string Title
+        {
+            get
+            {
+                if (Customer != null && Customer.Id != 0)
+                    return "Edit Customer";
+                return "New Customer";
+            }
+        }
     }
 }
