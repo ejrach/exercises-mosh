@@ -44,12 +44,27 @@ namespace Vidly.Controllers
             return View("CustomerForm", viewModel);
         }
 
-        //Define the 'Create' action for Customer. This is model binding. MVC framework binds
+        //Define the 'Save' action for Customer. This is model binding. MVC framework binds
         //this model to the request data
-        public ActionResult Create(Customer customer)
+        public ActionResult Save(Customer customer)
         {
-            //To save the data to the database, we need to create a context to it.
-            _context.Customers.Add(customer);
+            //if the customer Id is 0, then we have a new customer
+            if (customer.Id == 0)
+                //To save the data to the database, we need to create a context to it.
+                _context.Customers.Add(customer);
+            else
+            {
+                //Using the Single method here because if the given customer is not found, 
+                //we want to throw an exception. This action should only be called anyways because of posting
+                //the customer form.
+                var customerInDb = _context.Customers.Single(c => c.Id == customer.Id);
+
+                customerInDb.Name = customer.Name;
+                customerInDb.Birthdate = customer.Birthdate;
+                customerInDb.MembershipTypeId = customer.MembershipTypeId;
+                customerInDb.IsSubscribedToNewsletter = customer.IsSubscribedToNewsletter;
+            }
+
 
             //Persist the changes. This creates SQL statements at runtime, within a transaction.
             _context.SaveChanges();
