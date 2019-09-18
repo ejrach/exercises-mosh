@@ -49,6 +49,23 @@ namespace Vidly.Controllers
         [HttpPost]
         public ActionResult Save(Customer customer)
         {
+            //Use modelstate property to get access to validatation data.
+            //Since we are requiring the Name property of Customer model,
+            //we want to return the CustomerForm if the field is empty. So need 
+            //to define the viewModel and return the form.
+            if(!ModelState.IsValid)
+            {
+                var viewModel = new CustomerFormViewModel
+                {
+                    Customer = customer,
+                    MembershipTypes = _context.MembershipTypes.ToList()
+
+                };
+
+                return View("CustomerForm", viewModel);
+            }
+
+
             //if the customer Id is 0, then we have a new customer
             if (customer.Id == 0)
                 //To save the data to the database, we need to create a context to it.

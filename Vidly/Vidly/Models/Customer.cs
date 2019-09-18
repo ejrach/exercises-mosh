@@ -14,14 +14,14 @@ namespace Vidly.Models
         //  PM > Update-Database
         public int Id { get; set; }
 
-        [Required]
+        //Data Annotations
+        [Required(ErrorMessage = "Please enter customer's name.")]
         [StringLength(255)]
         public string Name { get; set; }
         
         //? means to make Birthdate nullable
         //Apply data annotation for the HTML markup for the "Birthdate" property.
         [Display(Name = "Date of Birth")]
-
         public DateTime? Birthdate { get; set; }
 
         public bool IsSubscribedToNewsletter { get; set; }
