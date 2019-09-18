@@ -49,6 +49,7 @@ namespace Vidly.Controllers
         //Define the 'Save' action for Customer. This is model binding. MVC framework binds
         //this model to the request data
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Save(Customer customer)
         {
             //Use modelstate property to get access to validatation data.
