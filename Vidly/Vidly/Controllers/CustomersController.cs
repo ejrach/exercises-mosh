@@ -37,6 +37,8 @@ namespace Vidly.Controllers
             //Use a View Model that encapsulates all of the data required for this view
             var viewModel = new CustomerFormViewModel
             {
+                //On a new customer, create a customer object so the Id gets initialized.
+                Customer = new Customer(),
                 //Set the list of membershipTypes to the view models' MembershipTypes property
                 MembershipTypes = membershipTypes
             };

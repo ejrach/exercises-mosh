@@ -17,7 +17,8 @@ namespace Vidly.Models
             //Business rule: if the membership type is not selected OR "Pay as you go" then we don't care of the 
             //age of the customer.
             //If they go on a paid membership, then we want their age to be at least 18 years old.
-            if (customer.MembershipTypeId == 0 || customer.MembershipTypeId == 1)
+            if (customer.MembershipTypeId == MembershipType.Unknown || 
+                customer.MembershipTypeId == MembershipType.PayAsYouGo)
                 return ValidationResult.Success;
 
             if (customer.Birthdate == null)

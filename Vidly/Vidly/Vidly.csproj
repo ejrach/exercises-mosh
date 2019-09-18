@@ -193,6 +193,10 @@
     <Compile Include="Migrations\201909091900216_AddMoviesToDbSet.Designer.cs">
       <DependentUpon>201909091900216_AddMoviesToDbSet.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201909181542543_UpdatedCustomerModel.cs" />
+    <Compile Include="Migrations\201909181542543_UpdatedCustomerModel.Designer.cs">
+      <DependentUpon>201909181542543_UpdatedCustomerModel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\Genre.cs" />
@@ -309,6 +313,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201909091900216_AddMoviesToDbSet.resx">
       <DependentUpon>201909091900216_AddMoviesToDbSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909181542543_UpdatedCustomerModel.resx">
+      <DependentUpon>201909181542543_UpdatedCustomerModel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
