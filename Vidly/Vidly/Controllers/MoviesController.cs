@@ -55,9 +55,8 @@ namespace Vidly.Controllers
             if (movie == null)
                 return HttpNotFound();
 
-            var viewModel = new MovieFormViewModel
+            var viewModel = new MovieFormViewModel(movie)
             {
-                Movie = movie,
                 Genres = _context.Genres.ToList()
             };
 
@@ -75,32 +74,48 @@ namespace Vidly.Controllers
         }
         
         
-        //GET: Movies/Random
-        //This returns a View at ".../Movies/Random" 
-        public ActionResult Random()
-        {
-            var movie = new Movie() { Name = "Shrek!" };
+        ////GET: Movies/Random
+        ////This returns a View at ".../Movies/Random" 
+        //public ActionResult Random()
+        //{
+        //    var movie = new Movie() { Name = "Shrek!" };
 
-            var customers = new List<Customer>
-            {
-                new Customer { Name = "Customer 1" },
-                new Customer { Name = "Customer 2" }
-            };
+        //    var customers = new List<Customer>
+        //    {
+        //        new Customer { Name = "Customer 1" },
+        //        new Customer { Name = "Customer 2" }
+        //    };
 
-            //Create a ViewModel object
-            var viewModel = new RandomMovieViewModel
-            {
-                Movie = movie,
-                Customers = customers
-            };
+        //    //Create a ViewModel object
+        //    var viewModel = new RandomMovieViewModel
+        //    {
+        //        Movie = movie,
+        //        Customers = customers
+        //    };
 
-            //Pass model to the view by passing it as an argument.
-            return View(viewModel);
-        }
+        //    //Pass model to the view by passing it as an argument.
+        //    return View(viewModel);
+        //}
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Save(Movie movie)
         {
+            //Use modelstate property to get access to validatation data.
+            //Since we are requiring specific properties in the Movie model,
+            //we want to return the MovieForm if fields are empty. So need 
+            //to define the viewModel and return the form.
+            if (!ModelState.IsValid)
+            {
+                var viewModel = new MovieFormViewModel(movie)
+                {
+                    Genres = _context.Genres.ToList()
+                };
+
+                return View("MovieForm", viewModel);
+            }
+
+
             if (movie.Id == 0)
             {
                 movie.DateAdded = DateTime.Now;

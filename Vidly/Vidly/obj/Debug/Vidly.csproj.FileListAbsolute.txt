@@ -58,5 +58,5 @@ C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrat
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreToDbSet.resources
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreToDbSet1.resources
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMoviesToDbSet.resources
-C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdatedCustomerModel.resources
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMovieFormViewModel.resources

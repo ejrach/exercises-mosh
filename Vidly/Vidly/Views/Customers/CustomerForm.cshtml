@@ -54,6 +54,9 @@
     but you can pull in the path from 'BundleConfig' so that validation comes from the client side,
     not the server side. This is a good practice in situations like this so we don't wait for the
     server to come back and tell us that we didn't fill out the Name text box, for example.
+
+    Note: if client side validation is enabled (like below), ValidationSummary will not work. That is a 
+            server side summary.
 *@
 @section scripts
 {

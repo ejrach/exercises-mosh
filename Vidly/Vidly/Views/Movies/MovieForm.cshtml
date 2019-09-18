@@ -7,23 +7,41 @@
 <h2>@Model.Title</h2>
 @using (Html.BeginForm("Save", "Movies"))
 {
+    @Html.ValidationSummary(true, "Please fix the following errors:")
     <div class="form-group">
-        @Html.LabelFor(m => m.Movie.Name)
-        @Html.TextBoxFor(m => m.Movie.Name, new { @class = "form-control" })
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Name)
     </div>
     <div class="form-group">
-        @Html.LabelFor(m => m.Movie.ReleaseDate)
-        @Html.TextBoxFor(m => m.Movie.ReleaseDate, "{0:d MMM yyyy}", new { @class = "form-control" })
+        @Html.LabelFor(m => m.ReleaseDate)
+        @Html.TextBoxFor(m => m.ReleaseDate, "{0:d MMM yyyy}", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.ReleaseDate)
     </div>
     <div class="form-group">
-        @Html.LabelFor(m => m.Movie.GenreId)
-        @Html.DropDownListFor(m => m.Movie.GenreId, new SelectList(Model.Genres, "Id", "Name"), "", new { @class = "form-control" })
+        @Html.LabelFor(m => m.GenreId)
+        @Html.DropDownListFor(m => m.GenreId, new SelectList(Model.Genres, "Id", "Name"), "", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.GenreId)
     </div>
     <div class="form-group">
-        @Html.LabelFor(m => m.Movie.NumberInStock)
-        @Html.TextBoxFor(m => m.Movie.NumberInStock, new { @class = "form-control" })
+        @Html.LabelFor(m => m.NumberInStock)
+        @Html.TextBoxFor(m => m.NumberInStock, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.NumberInStock)
     </div>
-    @Html.HiddenFor(m => m.Movie.Id)
+    @Html.HiddenFor(m => m.Id)
+    @Html.AntiForgeryToken()
     <button type="submit" class="btn btn-primary">Save</button>
 }
 
+@*Added for client side validation of the fields in this form. This is not enabled by default,
+    but you can pull in the path from 'BundleConfig' so that validation comes from the client side,
+    not the server side. This is a good practice in situations like this so we don't wait for the
+    server to come back and tell us that we didn't fill out the Name text box, for example.
+
+    Note: if client side validation is enabled (like below), ValidationSummary will not work. That is a
+            server side summary.
+*@
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}
