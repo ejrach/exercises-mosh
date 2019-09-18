@@ -14,7 +14,7 @@ namespace Vidly.Models
         //  PM > Update-Database
         public int Id { get; set; }
 
-        //Data Annotations
+        //Data Annotations. Override error message on input validation error.
         [Required(ErrorMessage = "Please enter customer's name.")]
         [StringLength(255)]
         public string Name { get; set; }
@@ -22,6 +22,7 @@ namespace Vidly.Models
         //? means to make Birthdate nullable
         //Apply data annotation for the HTML markup for the "Birthdate" property.
         [Display(Name = "Date of Birth")]
+        [Min18YearsIfAMember]
         public DateTime? Birthdate { get; set; }
 
         public bool IsSubscribedToNewsletter { get; set; }
