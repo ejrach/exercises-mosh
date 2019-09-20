@@ -8,6 +8,7 @@ namespace Vidly.Dtos
 {
     public class MovieDto
     {
+        //There is no need to include all of the other properties in the domain model
         public int Id { get; set; }
 
         [Required]
@@ -16,6 +17,8 @@ namespace Vidly.Dtos
 
         [Required]
         public byte GenreId { get; set; }
+
+        public GenreDto Genre { get; set; }
 
         public DateTime ReleaseDate { get; set; }
 

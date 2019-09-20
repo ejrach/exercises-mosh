@@ -15,6 +15,7 @@ namespace Vidly.Dtos
     //Customer domain model.
     public class CustomerDto
     {
+        //There is no need to include all of the other properties in the domain model
         public int Id { get; set; }
 
         [Required]
@@ -27,5 +28,7 @@ namespace Vidly.Dtos
         public bool IsSubscribedToNewsletter { get; set; }
 
         public byte MembershipTypeId { get; set; }
+
+        public MembershipTypeDto MembershipType { get; set; }
     }
 }

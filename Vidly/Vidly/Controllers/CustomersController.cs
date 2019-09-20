@@ -97,14 +97,7 @@ namespace Vidly.Controllers
         // GET: Customers
         public ViewResult Index()
         {
-            //the customers property is a dbset we defined in our DbContext.
-            //A query to the database will immediately occur with the "ToList()" method.
-            //We are using "Include" method here to load the Customers along with their Membership types
-            //together (because it comes from another table). This is called "Eager Loading". 
-            //"c" is customer, and it goes to c.MembershipType.
-            var customers = _context.Customers.Include(c => c.MembershipType).ToList();
-
-            return View(customers);
+            return View();
         }
 
         public ActionResult Details(int id)

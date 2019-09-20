@@ -27,12 +27,7 @@ namespace Vidly.Controllers
 
         public ViewResult Index()
         {
-            //We are using "Include" method here to load the Movies along with their Genre types
-            //together (because it comes from another table). This is called "Eager Loading". 
-            //"m" is movie, and it goes to m.Genre.
-            var movies = _context.Movies.Include(m => m.Genre).ToList();
-
-            return View(movies);
+            return View();
         }
         
         public ViewResult New()
