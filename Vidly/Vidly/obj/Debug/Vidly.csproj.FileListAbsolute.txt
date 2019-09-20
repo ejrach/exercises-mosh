@@ -68,4 +68,7 @@ C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\System.Web.Http.xm
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\AutoMapper.dll
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\AutoMapper.xml
-C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
