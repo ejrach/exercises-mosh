@@ -27,8 +27,6 @@ namespace Vidly.Controllers.Api
         // GET /api/customers
         public IHttpActionResult GetCustomers()
         {
-            //var customerDtos = _context.Customers.ToList().Select(Mapper.Map<Customer, CustomerDto>);
-
             //In order to eager load the membership type, we need to "include" it.
             //Because the customer data context includes the MembershipTypeId, this sort of cross-references it. 
             var customerDtos = _context.Customers
@@ -42,7 +40,7 @@ namespace Vidly.Controllers.Api
         //We want to return a single customer.
         //This will respond to a request like this:
         // GET /api/customers/1
-        public IHttpActionResult GetCustomer(int id)
+        public IHttpActionResult GetCustomers(int id)
         {
             //get the customer
             var customer = _context.Customers.SingleOrDefault(c => c.Id == id);
