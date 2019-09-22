@@ -25,12 +25,20 @@ namespace Vidly.Controllers.Api
         //We want to return a list of customers.
         //This is the convention built into ASP.NET Web API:
         // GET /api/customers
-        public IHttpActionResult GetCustomers()
+        // "string query = null" is an optional parameter
+        public IHttpActionResult GetCustomers(string query = null)
         {
             //In order to eager load the membership type, we need to "include" it.
             //Because the customer data context includes the MembershipTypeId, this sort of cross-references it. 
-            var customerDtos = _context.Customers
-                .Include(c => c.MembershipType)
+            var customersQuery = _context.Customers
+                .Include(c => c.MembershipType);
+
+            //if we have a query, then we filter the customer list.
+            //This is for the typeahead
+            if (!String.IsNullOrWhiteSpace(query))
+                customersQuery = customersQuery.Where(c => c.Name.Contains(query));
+
+            var customerDtos = customersQuery
                 .ToList()
                 .Select(Mapper.Map<Customer, CustomerDto>);
 
