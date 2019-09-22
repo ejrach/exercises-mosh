@@ -6,6 +6,8 @@ using System.Web;
 using System.Web.Mvc;
 using Vidly.Models;
 using Vidly.ViewModels;
+using System.Runtime;
+using System.Runtime.Caching;
 
 namespace Vidly.Controllers
 {
@@ -97,6 +99,14 @@ namespace Vidly.Controllers
         // GET: Customers
         public ViewResult Index()
         {
+            //Data caching - ONLY use this if you really need it. Should really do profiling before doing this,
+            //but this is an example. Here, we want to store the list of Genres in cache before storing it.
+            //if (MemoryCache.Default["Genres"] == null)
+            //{
+            //    MemoryCache.Default["Genres"] = _context.Genres.ToList();
+            //}
+            //var genres = MemoryCache.Default["Genres"] as IEnumerable<Genre>; 
+
             return View();
         }
 
