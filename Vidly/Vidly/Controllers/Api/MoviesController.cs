@@ -21,6 +21,8 @@ namespace Vidly.Controllers.Api
         }
 
         // GET /api/movies
+        // OR
+        // GET /api/movies?id=4
         public IEnumerable<MovieDto> GetMovies(string query = null)
         {
             //We're applying this query to get only the available number of movies
