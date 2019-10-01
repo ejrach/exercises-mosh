@@ -7,7 +7,8 @@ namespace Vidly
     {
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
-            //This filter redirects the user to an error page when an action throws an exception
+            //This filter redirects the user to an error page when an action throws an exception.
+            //This handles "exceptions" only, not "404 errors" which are handled by IIS
             filters.Add(new HandleErrorAttribute());
 
             //This filter restricts the user access to any page on the site if they are anonymous
