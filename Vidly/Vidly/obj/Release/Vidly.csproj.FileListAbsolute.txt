@@ -71,7 +71,9 @@ C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Release\Vidly.Migr
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Release\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Release\Vidly.Migrations.AddPhoneToApplicationUser.resources
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Release\Vidly.csproj.GenerateResource.cache
-C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Release\Vidly.csproj.CoreCompileInputs.cache
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Release\Vidly.csproj.CopyComplete
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Release\Vidly.dll
 C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Release\Vidly.pdb
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Release\Vidly.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Release\Vidly.Migrations.AddRental.resources
+C:\Users\Eric\Documents\GitHub\exercises-mosh\Vidly\Vidly\obj\Release\Vidly.Migrations.AddNumberAvailableToMovie.resources
